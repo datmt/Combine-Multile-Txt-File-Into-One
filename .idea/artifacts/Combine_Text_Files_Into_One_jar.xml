@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Combine Text Files Into One:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Combine_Text_Files_Into_One_jar</output-path>
+    <root id="archive" name="Combine Text Files Into One.jar">
+      <element id="module-output" name="Combine Text Files Into One" />
+    </root>
+  </artifact>
+</component>
