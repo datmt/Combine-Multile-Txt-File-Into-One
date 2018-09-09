@@ -20,7 +20,6 @@
             </ImageView>
             <HBox prefHeight="50.0" prefWidth="200.0">
                <children>
-                  <TextField prefHeight="25.0" prefWidth="152.0" />
                   <Button mnemonicParsing="false" onAction="#selectFilesToCombine" prefHeight="25.0" prefWidth="150.0" text="Select files to combine" />
                </children>
             </HBox>
